@@ -1,2 +1,4 @@
 # to-do-app
-I created To Do App using HTML, CSS and JavaScript.
+I created To-Do List using HTML, CSS and JavaScript.
+
+
